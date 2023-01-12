@@ -1,8 +1,10 @@
 # Regioselectivity-Prediction
-This is a repository for paper "".
+This is a repository for paper "Electrochemical Direct Arene Alkenylations without Directing Groups: Selective Late-Stage Drug Diversification".
 
-# Introduction
+# Abstract
 
+
+Electrooxidation has emerged as an increasingly viable platform in molecular syntheses that can avoid stoichiometric chemical redox agents. Despite major progress in electrocatalyzed C−H activations, these arene functionalizations generally require directing groups to enable the C−H activation. The installation and removal of these directing groups calls for additional synthesis steps, which jeopardizes the inherent efficacy of the electrochemical C−H activation approach, leading to undesired waste with reduced step and atom economy. In sharp contrast, herein we present palladium-electrocatalyzed C−H olefinations of simple arenes devoid of exogenous directing groups. The robust electrocatalysis protocol proved amenable to a wide range of both electron-rich and electron-deficient arenes under exceedingly mild reaction conditions, avoiding chemical oxidants. This study points to an interesting approach of two electrochemical transformations for the success of outstanding levels of position-selectivities in direct olefinations of electron-rich anisoles. Physical organic parameters-based machine learning models were developed to enable the regioselectivity prediction in electrochemical C−H olefinations. Furthermore, late-stage functionalizations set the stage for the direct C−H olefinations of structurally complex pharmaceutically relevant compounds, thereby avoiding protection and directing group manipulations.
 
 
 # Packages requirements
@@ -20,13 +22,12 @@ xgboost = 1.3.3
 ```
 
 # Demo & Instructions for use
-Notebook 1 demonstrates how to generate descriptors.
+Notebook 1 demonstrates the prediction of sites leave-one-out.
 
-Notebook 2 demonstrates the process of model selection.
+Notebook 2 demonstrates the prediction of compounds leave-one-out.
 
-Notebook 3 demonstrates the process of prediction.
+Notebook 3 demonstrates the external prediction.
 
-Notebook 4 demonstrates the baseline of prediction.
 # How to cite
 The paper is under review.
 # Contact with us
