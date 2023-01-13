@@ -31,4 +31,4 @@ Notebook 3 demonstrates the external prediction.
 # How to cite
 The paper is under review.
 # Contact with us
-Email: hxchem@zju.edu.cn; shuwen_li@zju.edu.cn
+Email: Lutz.Ackermann@chemie.unigoettingen.de; hxchem@zju.edu.cn; shuwen_li@zju.edu.cn
