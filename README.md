@@ -29,6 +29,6 @@ Notebook 2 demonstrates the prediction of compounds leave-one-out.
 Notebook 3 demonstrates the external prediction.
 
 # How to cite
-The paper is under review.
+Lin, Z., Dhawa, U., Hou, X. et al. Electrochemical Direct Arene Alkenylations without Directing Groups: Selective Late-Stage Drug Diversification. Nat. Commun., 14, 4224 (2023) DOI: https://doi.org/10.1038/s41467-023-39747-0.
 # Contact with us
 Email: Lutz.Ackermann@chemie.unigoettingen.de; hxchem@zju.edu.cn; shuwen_li@zju.edu.cn
